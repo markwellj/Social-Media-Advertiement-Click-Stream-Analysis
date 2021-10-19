@@ -12,7 +12,7 @@ Comment on the effectiveness of the three advertisement campaigns by calculating
 - Which blog converts better? (so that you know you should write more of similar ones in the future)
 
 **Metrics used in analysis**
-1.Bounce Rate
-2.Dropout Rate
-3.Conversion Rate
-4.Average Clickstream Depth
+- Bounce Rate
+- Dropout Rate
+- Conversion Rate
+- Average Clickstream Depth
