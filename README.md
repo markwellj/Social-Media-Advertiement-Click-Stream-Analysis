@@ -1,5 +1,7 @@
 # Social-Media-Advertiement-Click-Stream-Analysis
 
+**Graduate School Project**
+
 Read the project instructions below: 
 
 **Main objective:**
